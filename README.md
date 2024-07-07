@@ -43,6 +43,8 @@
 
 Unlock the secrets of Saga Pattern implementation in your microservices architecture using the powerful combination of Spring Boot and Kafka! In this comprehensive tutorial, we delve into the intricacies of transaction management, providing step-by-step guidance on designing and implementing sagas for seamless distributed systems. From understanding the fundamentals to practical hands-on examples, this video covers it all.
 
+This follows the choreography way of working. Each component puts messages in the kafka queue to be consumed by other modules downstream.
+
 ---
 
 ## 📺 YouTube
